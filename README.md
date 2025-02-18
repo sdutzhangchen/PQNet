@@ -30,7 +30,7 @@ The training code will be released after the acceptance of this paper.
 
 ## Test
 
-To test PANet, update the `pre` argument in `config.py` with the path to the pretrained model. Then, initiate the testing process by running `python test.py`.
+To test PQNet, update the `pre` argument in `config.py` with the path to the pretrained model. Then, initiate the testing process by running `python test.py`.
 
 ## Pretrained Weights
 

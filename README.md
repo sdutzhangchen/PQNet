@@ -7,6 +7,7 @@ The code is tested on Ubuntu 22.04 environment (Python3.8.18, PyTorch1.10.0) wit
 ## Contents
 
 - [Efficient Vehicular Counting via Privacy-aware Aggregation Network]
+  - [Data Availability](#data-availability)
   - [Train](#train)
   - [Test](#test)
   - [Pretrained Weights](#pretrained-weights)
@@ -19,6 +20,12 @@ The code is tested on Ubuntu 22.04 environment (Python3.8.18, PyTorch1.10.0) wit
 
 
 ![arch](Fig/framework.jpg)
+
+## Data Availability
+The ShanghaiTech dataset and UCF_CC_50 dataset and UCF_QNRF dataset from [HERE](https://mailnwpueducn-my.sharepoint.com/personal/gjy3035_mail_nwpu_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgjy3035%5Fmail%5Fnwpu%5Fedu%5Fcn%2FDocuments%2F%E8%AE%BA%E6%96%87%E5%BC%80%E6%BA%90%E6%95%B0%E6%8D%AE%2FC3Data&ga=1).
+The NWPU dataset from [HERE](https://www.crowdbenchmark.com/nwpucrowd.html).
+The CARPK dataset and PUCPR+ dataset from [HERE]( https://lafi.github.io/LPN/).
+
 
 ## Train
 The training code will be released after the acceptance of this paper.
